@@ -1,4 +1,4 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729383785268 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729392996016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -7,49 +7,25 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729383800395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393011194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383805372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393014285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383808453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393017357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383811563 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383814642 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383817724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383820799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383823868 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393020430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -58,61 +34,31 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729383839313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393035544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383842401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393038760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383845505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393041892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383848581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393044974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383851679 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383854803 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383857923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383860992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383864069 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383867131 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393048254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -121,67 +67,13 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729383883830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393063360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383886923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383889991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383893078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383896159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383899265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383902363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383905435 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383908515 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383911584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383914667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393066422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -190,121 +82,19 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729383930851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393081542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383933927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393084610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383936994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383940082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383943156 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383946223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383949305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383952379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383955446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383958528 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383961602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383964685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383967805 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383970918 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383973986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383977067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383980144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383984316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383987383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729383990443 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393087676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -313,43 +103,19 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384005545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393102779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384008617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393105860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384011680 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384014763 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384017847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384020915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384026363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393108941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -358,91 +124,43 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384041466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393124064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384044534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393127137 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384047600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393130202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384050670 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393133282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384053748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393136372 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384056829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393139455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384059900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384062984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384066050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384069116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384072187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384075289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384079840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384082923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384086030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393142533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -451,139 +169,31 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384101138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393157640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384104214 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393160714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384107294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393163787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384110380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393167899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384113446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384116631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384119713 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384122797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384125862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384128938 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384132002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384135844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384138923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384141998 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384145089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384148159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384151221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384154287 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384157358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384160448 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384163515 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384166582 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384169654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393170972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -592,55 +202,31 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384184768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393186067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384187834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393189144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384190894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393192201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384193986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393195266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384197112 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384200183 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384203259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384206319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384209394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393198327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -649,127 +235,43 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384224519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393213421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384227621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393216516 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384230754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393219586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384233819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393222665 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384236889 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393225732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384239952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393228809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384243016 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384246092 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384249164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384252222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384255403 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384258467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384261536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384264598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384267668 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384270778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384273842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384276905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384279972 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384283038 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384286105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393231902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -778,121 +280,31 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384301239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393247051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384304313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393250195 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384307380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393253273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384310441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393256416 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384313508 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384316579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384319645 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384322715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384326043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384329127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384332205 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384335275 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384340080 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384343146 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384346211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384349325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384352393 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384355482 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384358554 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384361615 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393259495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -901,27 +313,414 @@ en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729384376759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393275112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384379838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393278202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384382902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393281274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729384385966 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729393284363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393287430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393290497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393305620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393308695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393311764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393314870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393317933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393333039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393336113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393339184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393354290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393357357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393360427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393363491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393366563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393381801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393384881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393387949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393391019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393406125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393409213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393412281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393417170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393426254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393429332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393432449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393435590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393438678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393453770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393456833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393459908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393462972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393466616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393481710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393484834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393487935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393503047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393506126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393509190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393512308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393527409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393530471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393533537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393536812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393539881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393542946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393558060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393561141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393564203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393567291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393570533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393573599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393576915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729393592036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393595097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393598217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393601322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729393604983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+artist-given.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+en-raising.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
